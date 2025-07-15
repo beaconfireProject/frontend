@@ -13,7 +13,10 @@ This is the frontend for the Beaconfire Project built with Vite and React.
 2. Install dependencies:
  ```bash
    npm install
+```
 
-3. Run the development server:
+2. Install dependencies:
  ```bash
-   npm run dev
+   npm install
+
+
